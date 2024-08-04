@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final year student.<br>Major in Cloud Computing and Virtualization Technology.<br>Minor in DevOps.<br>Reach me: aashishanegi2303@gmail.com
+Final year BTech student.<br>Major in Cloud Computing and Virtualization Technology.<br>Minor in DevOps.<br>Reach me: aashishanegi2303@gmail.com
 
 
 ## 🌐 Socials:
