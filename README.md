@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final year BTech student.<br>Student at University of Petroleum and Energy Studies (UPES), Dehradun. <br>Major in Cloud Computing and Virtualization Technology.<br>Minor in DevOps.<br>Reach me: aashishanegi2303@gmail.com <br> Certified AWS Solution Architect Associate (Validation Number: b5eaebb72874463681613e716601ba55
+Final year BTech student.<br>Student at University of Petroleum and Energy Studies (UPES), Dehradun. <br>Major in Cloud Computing and Virtualization Technology.<br>Minor in DevOps.<br>Reach me: aashishanegi2303@gmail.com <br> Certified AWS Solution Architect Associate (Validation Number: b5eaebb72874463681613e716601ba55)
 
 
 
